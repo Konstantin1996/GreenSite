@@ -1,10 +1,10 @@
 # Green WebSite layout
 
 **Resolutions**
-***** 
+
 
 *Desktop*
-
+***** 
 ![Image alt](https://github.com/Konstantin1996/GreenSite/blob/master/preview/screencapture-file-E-WEB-Green-index-html-2018-09-04-19_00_57.png)
 *iPad*
 ![Image alt](https://github.com/Konstantin1996/GreenSite/blob/master/preview/screencapture-file-E-WEB-Green-index-html-2018-09-04-19_19_56.png)
