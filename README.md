@@ -1,5 +1,10 @@
 # Green WebSite layout
 
+## Description
+
+Convert PSD to adaptive HTML/CSS using grid system.
+
+
 **Resolutions**
 
 ***** 
