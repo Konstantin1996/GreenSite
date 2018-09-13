@@ -5,8 +5,10 @@
 Convert PSD to adaptive HTML/CSS using grid system.
 
 
-**Resolutions**
 
+
+
+**Resolutions**
 ***** 
 *Desktop*
 ***** 
